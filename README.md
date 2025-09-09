@@ -5,7 +5,7 @@ Projeto inicial para praticar fundamentos de desenvolvimento web.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 - HTML5  
 - CSS3  
 - JavaScript (DOM, eventos, localStorage)
